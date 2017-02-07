@@ -1,0 +1,2 @@
+
+Basic test after the boot is complete: access http://localhost:8080/hello/visvadw
